@@ -1,5 +1,7 @@
 # Checking for Shai Hulud (Claude generated scanner)
 
+More information can be found at https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html
+
 To check for infection by the Mini Shai-Hulud npm worm (last updated May 2026), you should immediately
 audit your development environment for specific malicious files, unexpected network activity, and suspicious
 GitHub activity.
